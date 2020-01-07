@@ -1,0 +1,9 @@
+Python 3.6.3
+
+pipenv-1
+    Machine Learning
+    - request library - 1.2
+
+pipenv-2
+    Django web API
+    - request library - 2.0
